@@ -1,0 +1,158 @@
+﻿Build started 2012-02-23 16:20:45.
+     1>Project "C:\Users\Quad\documents\visual studio 2010\Projects\quadcopter_flight_software\quadcopter_flight_software\quadcopter_flight_software.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\Users\Quad\documents\visual studio 2010\Projects\quadcopter_flight_software\Release\".
+       InitializeBuildStatus:
+         Creating "Release\quadcopter_flight_software.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /Wall /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\quadcopter_flight_software.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\basetsd.h(114): warning C4668: '__midl' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(8154): warning C4820: '_SECURITY_QUALITY_OF_SERVICE' : '2' bytes padding added after data member '_SECURITY_QUALITY_OF_SERVICE::EffectiveOnly'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(8165): warning C4820: '_SE_IMPERSONATION_STATE' : '2' bytes padding added after data member '_SE_IMPERSONATION_STATE::EffectiveOnly'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(8334): warning C4820: '_QUOTA_LIMITS' : '4' bytes padding added after data member '_QUOTA_LIMITS::PagefileLimit'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(8357): warning C4820: '_QUOTA_LIMITS_EX' : '4' bytes padding added after data member '_QUOTA_LIMITS_EX::PagefileLimit'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(8405): warning C4820: '_JOBOBJECT_BASIC_LIMIT_INFORMATION' : '4' bytes padding added after data member '_JOBOBJECT_BASIC_LIMIT_INFORMATION::SchedulingClass'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(8984): warning C4820: '_FILE_NOTIFY_INFORMATION' : '2' bytes padding added after data member '_FILE_NOTIFY_INFORMATION::FileName'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(9012): warning C4820: '_REPARSE_GUID_DATA_BUFFER' : '3' bytes padding added after data member '_REPARSE_GUID_DATA_BUFFER::GenericReparseBuffer'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(10131): warning C4820: '<unnamed-tag>' : '3' bytes padding added after data member '<unnamed-tag>::Data'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(10241): warning C4820: '<unnamed-tag>' : '4' bytes padding added after data member '<unnamed-tag>::DecreaseTime'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(10262): warning C4820: '<unnamed-tag>' : '4' bytes padding added after data member '<unnamed-tag>::TimerInterval'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(10307): warning C4820: '<unnamed-tag>' : '4' bytes padding added after data member '<unnamed-tag>::InvalidBucketIndex'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(10315): warning C4820: '<unnamed-tag>' : '4' bytes padding added after data member '<unnamed-tag>::ResetCount'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(10330): warning C4820: '<unnamed-tag>' : '4' bytes padding added after data member '<unnamed-tag>::Count'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(10339): warning C4820: '<unnamed-tag>' : '4' bytes padding added after data member '<unnamed-tag>::MaxTimeUs'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(10346): warning C4820: '<unnamed-tag>' : '4' bytes padding added after data member '<unnamed-tag>::ResetCount'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(10443): warning C4820: '<unnamed-tag>' : '4' bytes padding added after data member '<unnamed-tag>::Speed'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(10454): warning C4820: '<unnamed-tag>' : '4' bytes padding added after data member '<unnamed-tag>::ThermalConstraint'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(10462): warning C4820: '<unnamed-tag>' : '7' bytes padding added after data member '<unnamed-tag>::Mode'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(10558): warning C4820: '_SYSTEM_POWER_POLICY' : '3' bytes padding added after data member '_SYSTEM_POWER_POLICY::VideoDimDisplay'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(12047): warning C4820: '_IMAGE_IMPORT_BY_NAME' : '1' bytes padding added after data member '_IMAGE_IMPORT_BY_NAME::Name'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(12237): warning C4820: '_IMAGE_RESOURCE_DIRECTORY_STRING' : '1' bytes padding added after data member '_IMAGE_RESOURCE_DIRECTORY_STRING::NameString'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(12450): warning C4820: '_IMAGE_DEBUG_MISC' : '3' bytes padding added after data member '_IMAGE_DEBUG_MISC::Data'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(13017): warning C4668: '_DBG_MEMCPY_INLINE_' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(13113): warning C4820: '_MESSAGE_RESOURCE_ENTRY' : '1' bytes padding added after data member '_MESSAGE_RESOURCE_ENTRY::Text'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(13569): warning C4820: '_ACTIVATION_CONTEXT_ASSEMBLY_DETAILED_INFORMATION' : '4' bytes padding added after data member '_ACTIVATION_CONTEXT_ASSEMBLY_DETAILED_INFORMATION::ulFileCount'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(14043): warning C4820: '_TAPE_ERASE' : '3' bytes padding added after data member '_TAPE_ERASE::Immediate'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(14059): warning C4820: '_TAPE_PREPARE' : '3' bytes padding added after data member '_TAPE_PREPARE::Immediate'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(14074): warning C4820: '_TAPE_WRITE_MARKS' : '3' bytes padding added after data member '_TAPE_WRITE_MARKS::Immediate'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(14110): warning C4820: '_TAPE_SET_POSITION' : '7' bytes padding added after data member '_TAPE_SET_POSITION::Immediate'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(14234): warning C4820: '_TAPE_GET_MEDIA_PARAMETERS' : '7' bytes padding added after data member '_TAPE_GET_MEDIA_PARAMETERS::WriteProtected'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\ktmtypes.h(138): warning C4820: '_TRANSACTION_NOTIFICATION' : '4' bytes padding added after data member '_TRANSACTION_NOTIFICATION::ArgumentLength'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(14498): warning C4820: '_TRANSACTIONMANAGER_LOGPATH_INFORMATION' : '2' bytes padding added after data member '_TRANSACTIONMANAGER_LOGPATH_INFORMATION::LogPath'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(14520): warning C4820: '_TRANSACTION_PROPERTIES_INFORMATION' : '6' bytes padding added after data member '_TRANSACTION_PROPERTIES_INFORMATION::Description'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnt.h(14547): warning C4820: '_RESOURCEMANAGER_BASIC_INFORMATION' : '2' bytes padding added after data member '_RESOURCEMANAGER_BASIC_INFORMATION::Description'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winbase.h(682): warning C4820: '_COMMPROP' : '2' bytes padding added after data member '_COMMPROP::wcProvChar'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winbase.h(768): warning C4820: '_COMMCONFIG' : '2' bytes padding added after data member '_COMMCONFIG::wcProviderData'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winbase.h(977): warning C4820: '_CREATE_PROCESS_DEBUG_INFO' : '2' bytes padding added after data member '_CREATE_PROCESS_DEBUG_INFO::fUnicode'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winbase.h(994): warning C4820: '_LOAD_DLL_DEBUG_INFO' : '2' bytes padding added after data member '_LOAD_DLL_DEBUG_INFO::fUnicode'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winbase.h(5526): warning C4820: '_TIME_DYNAMIC_ZONE_INFORMATION' : '3' bytes padding added after data member '_TIME_DYNAMIC_ZONE_INFORMATION::DynamicDaylightTimeDisabled'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winbase.h(6459): warning C4820: '_WIN32_STREAM_ID' : '2' bytes padding added after data member '_WIN32_STREAM_ID::cStreamName'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winbase.h(6618): warning C4820: '_WIN32_FIND_DATAA' : '2' bytes padding added after data member '_WIN32_FIND_DATAA::cAlternateFileName'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winbase.h(13588): warning C4820: 'tagHW_PROFILE_INFOA' : '1' bytes padding added after data member 'tagHW_PROFILE_INFOA::szHwProfileName'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winbase.h(13593): warning C4820: 'tagHW_PROFILE_INFOW' : '2' bytes padding added after data member 'tagHW_PROFILE_INFOW::szHwProfileName'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winbase.h(14754): warning C4820: '_FILE_BASIC_INFO' : '4' bytes padding added after data member '_FILE_BASIC_INFO::FileAttributes'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winbase.h(14762): warning C4820: '_FILE_STANDARD_INFO' : '2' bytes padding added after data member '_FILE_STANDARD_INFO::Directory'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winbase.h(14767): warning C4820: '_FILE_NAME_INFO' : '2' bytes padding added after data member '_FILE_NAME_INFO::FileName'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winbase.h(14771): warning C4820: '_FILE_RENAME_INFO' : '3' bytes padding added after data member '_FILE_RENAME_INFO::ReplaceIfExists'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winbase.h(14774): warning C4820: '_FILE_RENAME_INFO' : '2' bytes padding added after data member '_FILE_RENAME_INFO::FileName'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winbase.h(14790): warning C4820: '_FILE_STREAM_INFO' : '6' bytes padding added after data member '_FILE_STREAM_INFO::StreamName'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winbase.h(14823): warning C4820: '_FILE_ID_BOTH_DIR_INFO' : '1' bytes padding added after data member '_FILE_ID_BOTH_DIR_INFO::ShortNameLength'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winbase.h(14824): warning C4820: '_FILE_ID_BOTH_DIR_INFO' : '2' bytes padding added after data member '_FILE_ID_BOTH_DIR_INFO::ShortName'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winbase.h(14826): warning C4820: '_FILE_ID_BOTH_DIR_INFO' : '6' bytes padding added after data member '_FILE_ID_BOTH_DIR_INFO::FileName'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\wingdi.h(806): warning C4820: 'tagBITMAPCOREINFO' : '1' bytes padding added after data member 'tagBITMAPCOREINFO::bmciColors'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\wingdi.h(981): warning C4820: 'tagTEXTMETRICA' : '3' bytes padding added after data member 'tagTEXTMETRICA::tmCharSet'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\wingdi.h(1004): warning C4820: 'tagTEXTMETRICW' : '3' bytes padding added after data member 'tagTEXTMETRICW::tmCharSet'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\wingdi.h(1056): warning C4820: 'tagNEWTEXTMETRICA' : '3' bytes padding added after data member 'tagNEWTEXTMETRICA::tmCharSet'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\wingdi.h(1083): warning C4820: 'tagNEWTEXTMETRICW' : '3' bytes padding added after data member 'tagNEWTEXTMETRICW::tmCharSet'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\wingdi.h(1130): warning C4820: 'tagPELARRAY' : '3' bytes padding added after data member 'tagPELARRAY::paRGBs'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\wingdi.h(1562): warning C4820: 'tagEXTLOGFONTA' : '2' bytes padding added after data member 'tagEXTLOGFONTA::elfPanose'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\wingdi.h(1574): warning C4820: 'tagEXTLOGFONTW' : '2' bytes padding added after data member 'tagEXTLOGFONTW::elfPanose'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\wingdi.h(2747): warning C4820: 'DISPLAYCONFIG_TARGET_PREFERRED_MODE' : '4' bytes padding added after data member 'DISPLAYCONFIG_TARGET_PREFERRED_MODE::height'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\wingdi.h(2817): warning C4820: '_RGNDATA' : '3' bytes padding added after data member '_RGNDATA::Buffer'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\wingdi.h(2846): warning C4820: '_OUTLINETEXTMETRICA' : '1' bytes padding added after data member '_OUTLINETEXTMETRICA::otmPanoseNumber'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\wingdi.h(2880): warning C4820: '_OUTLINETEXTMETRICW' : '1' bytes padding added after data member '_OUTLINETEXTMETRICW::otmPanoseNumber'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\wingdi.h(4979): warning C4820: 'tagEMRGDICOMMENT' : '3' bytes padding added after data member 'tagEMRGDICOMMENT::Data'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\wingdi.h(5138): warning C4820: 'tagEMRPOLYDRAW' : '3' bytes padding added after data member 'tagEMRPOLYDRAW::abTypes'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\wingdi.h(5147): warning C4820: 'tagEMRPOLYDRAW16' : '3' bytes padding added after data member 'tagEMRPOLYDRAW16::abTypes'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\wingdi.h(5177): warning C4820: 'tagEMRINVERTRGN' : '3' bytes padding added after data member 'tagEMRINVERTRGN::RgnData'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\wingdi.h(5187): warning C4820: 'tagEMRFILLRGN' : '3' bytes padding added after data member 'tagEMRFILLRGN::RgnData'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\wingdi.h(5197): warning C4820: 'tagEMRFRAMERGN' : '3' bytes padding added after data member 'tagEMRFRAMERGN::RgnData'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\wingdi.h(5205): warning C4820: 'tagEMREXTSELECTCLIPRGN' : '3' bytes padding added after data member 'tagEMREXTSELECTCLIPRGN::RgnData'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\wingdi.h(5452): warning C4820: 'tagEMRGLSRECORD' : '3' bytes padding added after data member 'tagEMRGLSRECORD::Data'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\wingdi.h(5460): warning C4820: 'tagEMRGLSBOUNDEDRECORD' : '3' bytes padding added after data member 'tagEMRGLSBOUNDEDRECORD::Data'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\wingdi.h(5493): warning C4820: 'tagEMREXTESCAPE' : '3' bytes padding added after data member 'tagEMREXTESCAPE::EscData'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\wingdi.h(5503): warning C4820: 'tagEMRNAMEDESCAPE' : '3' bytes padding added after data member 'tagEMRNAMEDESCAPE::EscData'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\wingdi.h(5514): warning C4820: 'tagEMRSETICMPROFILE' : '3' bytes padding added after data member 'tagEMRSETICMPROFILE::Data'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\wingdi.h(5528): warning C4820: 'tagEMRCREATECOLORSPACEW' : '3' bytes padding added after data member 'tagEMRCREATECOLORSPACEW::Data'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\wingdi.h(5540): warning C4820: 'tagCOLORMATCHTOTARGET' : '3' bytes padding added after data member 'tagCOLORMATCHTOTARGET::Data'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winuser.h(2084): warning C4820: '<unnamed-tag>' : '3' bytes padding added after data member '<unnamed-tag>::Data'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winuser.h(2798): warning C4820: 'tagACCEL' : '1' bytes padding added after data member 'tagACCEL::fVirt'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winuser.h(8982): warning C4820: 'tagCURSORSHAPE' : '2' bytes padding added after data member 'tagCURSORSHAPE::BitsPixel'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winuser.h(9093): warning C4820: '_ICONINFOEXA' : '2' bytes padding added after data member '_ICONINFOEXA::szResName'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winuser.h(9104): warning C4820: '_ICONINFOEXW' : '2' bytes padding added after data member '_ICONINFOEXW::szResName'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winuser.h(9770): warning C4668: '_WIN32_WCE' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winuser.h(9877): warning C4668: '_WIN32_WCE' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winuser.h(10015): warning C4668: '_WIN32_WCE' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winuser.h(10316): warning C4820: 'tagMULTIKEYHELPA' : '2' bytes padding added after data member 'tagMULTIKEYHELPA::szKeyphrase'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winuser.h(10344): warning C4820: 'tagHELPWININFOA' : '2' bytes padding added after data member 'tagHELPWININFOA::rgchMember'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winuser.h(12506): warning C4820: 'tagRAWMOUSE' : '2' bytes padding added after data member 'tagRAWMOUSE::usFlags'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winuser.h(12627): warning C4820: 'tagRAWHID' : '3' bytes padding added after data member 'tagRAWHID::bRawData'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winuser.h(12927): warning C4820: 'tagGESTUREINFO' : '4' bytes padding added after data member 'tagGESTUREINFO::dwSequenceID'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winuser.h(12929): warning C4820: 'tagGESTUREINFO' : '4' bytes padding added after data member 'tagGESTUREINFO::cbExtraArgs'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnls.h(938): warning C4820: '_cpinfo' : '2' bytes padding added after data member '_cpinfo::LeadByte'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\wincon.h(128): warning C4820: '_INPUT_RECORD' : '2' bytes padding added after data member '_INPUT_RECORD::EventType'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winnetwk.h(662): warning C4820: '_NETINFOSTRUCT' : '2' bytes padding added after data member '_NETINFOSTRUCT::wNetType'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\winsvc.h(572): warning C4820: '_SERVICE_PREFERRED_NODE_INFO' : '1' bytes padding added after data member '_SERVICE_PREFERRED_NODE_INFO::fDelete'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\mcx.h(43): warning C4820: '_MODEMDEVCAPS' : '3' bytes padding added after data member '_MODEMDEVCAPS::abVariablePortion'
+     1>C:\Program Files\Microsoft SDKs\Windows\v7.0A\include\mcx.h(64): warning C4820: '_MODEMSETTINGS' : '3' bytes padding added after data member '_MODEMSETTINGS::abVariablePortion'
+     1>C:\Program Files\Microsoft Visual Studio 10.0\VC\include\wchar.h(109): warning C4820: '_wfinddata64i32_t' : '4' bytes padding added after data member '_wfinddata64i32_t::attrib'
+     1>C:\Program Files\Microsoft Visual Studio 10.0\VC\include\wchar.h(114): warning C4820: '_wfinddata64i32_t' : '4' bytes padding added after data member '_wfinddata64i32_t::name'
+     1>C:\Program Files\Microsoft Visual Studio 10.0\VC\include\wchar.h(118): warning C4820: '_wfinddata64_t' : '4' bytes padding added after data member '_wfinddata64_t::attrib'
+     1>C:\Program Files\Microsoft Visual Studio 10.0\VC\include\wchar.h(488): warning C4820: '_stat32' : '2' bytes padding added after data member '_stat32::st_gid'
+     1>C:\Program Files\Microsoft Visual Studio 10.0\VC\include\wchar.h(504): warning C4820: 'stat' : '2' bytes padding added after data member 'stat::st_gid'
+     1>C:\Program Files\Microsoft Visual Studio 10.0\VC\include\wchar.h(520): warning C4820: '_stat32i64' : '2' bytes padding added after data member '_stat32i64::st_gid'
+     1>C:\Program Files\Microsoft Visual Studio 10.0\VC\include\wchar.h(521): warning C4820: '_stat32i64' : '4' bytes padding added after data member '_stat32i64::st_rdev'
+     1>C:\Program Files\Microsoft Visual Studio 10.0\VC\include\wchar.h(525): warning C4820: '_stat32i64' : '4' bytes padding added after data member '_stat32i64::st_ctime'
+     1>C:\Program Files\Microsoft Visual Studio 10.0\VC\include\wchar.h(534): warning C4820: '_stat64i32' : '2' bytes padding added after data member '_stat64i32::st_gid'
+     1>C:\Program Files\Microsoft Visual Studio 10.0\VC\include\wchar.h(548): warning C4820: '_stat64' : '2' bytes padding added after data member '_stat64::st_gid'
+     1>C:\Program Files\Microsoft Visual Studio 10.0\VC\include\wchar.h(549): warning C4820: '_stat64' : '4' bytes padding added after data member '_stat64::st_rdev'
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /Wall /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\quadcopter_flight_software.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt gyro.cpp logger.cpp motorVectorCtrl.cpp pidControl.cpp quadcopter_flight_software.cpp
+         gyro.cpp
+     1>gyro.cpp(16): warning C4127: conditional expression is constant
+     1>gyro.cpp(20): warning C4365: 'initializing' : conversion from 'size_t' to 'int', signed/unsigned mismatch
+     1>gyro.cpp(8): warning C4189: 'err' : local variable is initialized but not referenced
+     1>gyro.cpp(11): warning C4189: 'err' : local variable is initialized but not referenced
+     1>gyro.cpp(5): warning C4505: 'commReader' : unreferenced local function has been removed
+         logger.cpp
+     1>c:\users\quad\documents\visual studio 2010\projects\quadcopter_flight_software\quadcopter_flight_software\logger.h(15): warning C4820: 'QLogger' : '4' bytes padding added after data member 'QLogger::f'
+     1>logger.cpp(53): warning C4365: 'argument' : conversion from 'int' to 'size_t', signed/unsigned mismatch
+         motorVectorCtrl.cpp
+         pidControl.cpp
+         quadcopter_flight_software.cpp
+     1>c:\users\quad\documents\visual studio 2010\projects\quadcopter_flight_software\quadcopter_flight_software\logger.h(15): warning C4820: 'QLogger' : '4' bytes padding added after data member 'QLogger::f'
+     1>quadcopter_flight_software.cpp(113): warning C4189: 'wmEvent' : local variable is initialized but not referenced
+       ResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Release\quadcopter_flight_software.res" quadcopter_flight_software.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Quad\documents\visual studio 2010\Projects\quadcopter_flight_software\Release\quadcopter_flight_software.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\quadcopter_flight_software.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Quad\documents\visual studio 2010\Projects\quadcopter_flight_software\Release\quadcopter_flight_software.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Quad\documents\visual studio 2010\Projects\quadcopter_flight_software\Release\quadcopter_flight_software.lib" /MACHINE:X86 Release\quadcopter_flight_software.res
+         Release\gyro.obj
+         Release\logger.obj
+         Release\motorVectorCtrl.obj
+         Release\pidControl.obj
+         Release\quadcopter_flight_software.obj
+         Release\stdafx.obj
+         Generating code
+     1>c:\users\quad\documents\visual studio 2010\projects\quadcopter_flight_software\quadcopter_flight_software\quadcopter_flight_software.cpp(39): warning C4711: function 'int __cdecl InitInstance(struct HINSTANCE__ *,int)' selected for automatic inline expansion
+         Finished generating code
+         quadcopter_flight_software.vcxproj -> C:\Users\Quad\documents\visual studio 2010\Projects\quadcopter_flight_software\Release\quadcopter_flight_software.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Quad\documents\visual studio 2010\Projects\quadcopter_flight_software\Release\quadcopter_flight_software.exe;#1" /manifest Release\quadcopter_flight_software.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\quadcopter_flight_software.unsuccessfulbuild".
+         Touching "Release\quadcopter_flight_software.lastbuildstate".
+     1>Done Building Project "C:\Users\Quad\documents\visual studio 2010\Projects\quadcopter_flight_software\quadcopter_flight_software\quadcopter_flight_software.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.01

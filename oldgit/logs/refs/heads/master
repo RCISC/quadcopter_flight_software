@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 4ed75037f62e222fd18b04f63da44c868d07aee8 unknown <Quad@Quad-PC.(none)> 1330024354 -0500	commit (initial): Initial commit
+4ed75037f62e222fd18b04f63da44c868d07aee8 40b7a6b75e3d7b2946cd80da58a34d81479dc5af unknown <Quad@Quad-PC.(none)> 1330032165 -0500	commit: Still setting up the framework
+40b7a6b75e3d7b2946cd80da58a34d81479dc5af 6f65f8d6cb539d67a5ebe44aef90eacf7d74ee06 unknown <Quad@Quad-PC.(none)> 1330032750 -0500	commit: Larry testing commit
+6f65f8d6cb539d67a5ebe44aef90eacf7d74ee06 095849e7c9ce0a301de6e6a0ab62c36743803ec7 Larry <enotkvit@gmail.com> 1330051659 -0500	commit: More framework. Mavlink added (old ver). Gyro added
+095849e7c9ce0a301de6e6a0ab62c36743803ec7 bd41f097484618e306f7f25a76356d083b609aab Larry <enotkvit@gmail.com> 1330051686 -0500	commit: More framework - commit 2
+bd41f097484618e306f7f25a76356d083b609aab bcad89856bbd144a96ced22e4628e27b8f4def70 Larry <enotkvit@gmail.com> 1330051702 -0500	commit: More framework - commit 3
+bcad89856bbd144a96ced22e4628e27b8f4def70 965d2fe43c7bd74106e8d730afe75f571c5ee639 Larry <enotkvit@gmail.com> 1330054040 -0500	commit: Working mavlink
+965d2fe43c7bd74106e8d730afe75f571c5ee639 444a7ab38ea616747a8d35ab3d8833cc54264af0 Larry <enotkvit@gmail.com> 1330112309 -0500	commit: Mavlink now triggers main thread when receiving a full message
+444a7ab38ea616747a8d35ab3d8833cc54264af0 0cf83790717f8f20f01112fb3a1823cbd426f4b9 Larry <enotkvit@gmail.com> 1330195916 -0500	commit: Pololu Maestro interfacing works
+0cf83790717f8f20f01112fb3a1823cbd426f4b9 694af97436830c3f1a73c52ad27e16b611c21282 Larry <enotkvit@gmail.com> 1330216554 -0500	commit: reads mavlink messages, reads file for input, tested with gyro and maestro, and lots of fun stuff
+694af97436830c3f1a73c52ad27e16b611c21282 998c46baf0276110e50fa4f5bafd24daf6affbc9 Larry <enotkvit@gmail.com> 1330296925 -0500	commit: Tested on real hardware, changed max and min val for motor set
+998c46baf0276110e50fa4f5bafd24daf6affbc9 df2d690874326b8d8ec9c13f23cdbbbf9adfc82e Vlad K <vkvitnevski@gmail.com> 1330985711 -0500	commit: Lots of changes
+b96b958f3e36fd702fdf00fc3fd23e80413cf7d8 c49094370474915e3ee4353de1372618b9ee76a4 Larry <larrykvit@hotmail.com> 1349029751 -0400	pull origin master: Merge made by the 'recursive' strategy.

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/AHSTeam/Overlord/svn/!svn/ver/5/QuadcopterSoftware/mavlink/message_definitions
+END
+mavlink_standard_proposal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/AHSTeam/Overlord/svn/!svn/ver/5/QuadcopterSoftware/mavlink/message_definitions/mavlink_standard_proposal.xml
+END
+common.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/AHSTeam/Overlord/svn/!svn/ver/5/QuadcopterSoftware/mavlink/message_definitions/common.xml
+END
+pixhawk.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/AHSTeam/Overlord/svn/!svn/ver/5/QuadcopterSoftware/mavlink/message_definitions/pixhawk.xml
+END
+ardupilotmega.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/AHSTeam/Overlord/svn/!svn/ver/5/QuadcopterSoftware/mavlink/message_definitions/ardupilotmega.xml
+END
+slugs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/AHSTeam/Overlord/svn/!svn/ver/5/QuadcopterSoftware/mavlink/message_definitions/slugs.xml
+END
+ualberta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/AHSTeam/Overlord/svn/!svn/ver/5/QuadcopterSoftware/mavlink/message_definitions/ualberta.xml
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/AHSTeam/Overlord/svn/!svn/ver/5/QuadcopterSoftware/mavlink/include/ualberta
+END
+mavlink_msg_radio_calibration.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/AHSTeam/Overlord/svn/!svn/ver/5/QuadcopterSoftware/mavlink/include/ualberta/mavlink_msg_radio_calibration.h
+END
+mavlink_msg_nav_filter_bias.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/AHSTeam/Overlord/svn/!svn/ver/5/QuadcopterSoftware/mavlink/include/ualberta/mavlink_msg_nav_filter_bias.h
+END
+mavlink_msg_request_rc_channels.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/AHSTeam/Overlord/svn/!svn/ver/5/QuadcopterSoftware/mavlink/include/ualberta/mavlink_msg_request_rc_channels.h
+END
+ualberta.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/AHSTeam/Overlord/svn/!svn/ver/5/QuadcopterSoftware/mavlink/include/ualberta/ualberta.h
+END
+mavlink.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/AHSTeam/Overlord/svn/!svn/ver/5/QuadcopterSoftware/mavlink/include/ualberta/mavlink.h
+END
+mavlink_msg_request_radio_calibration.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/AHSTeam/Overlord/svn/!svn/ver/5/QuadcopterSoftware/mavlink/include/ualberta/mavlink_msg_request_radio_calibration.h
+END
